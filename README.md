@@ -19,6 +19,3 @@
 <p align="left">   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=react,js,ts,nodejs,nextjs,bootstrap,git,css,html,mysql,mongodb,jest,firebase,figma,docker,nginx,py,php,laravel,redux,sass,r,materialui" />
   </a></p>
-
-
-# MarcusviniciusLsantos
