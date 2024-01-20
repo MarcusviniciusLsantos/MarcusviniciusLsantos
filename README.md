@@ -5,7 +5,7 @@
 
 - 📫 How to reach me **marcusads25@gmail.com**
 
-- 📄 Know about my experiences [www.linkedin.com/in/marcus-vinícius-lima-santos](www.linkedin.com/in/marcus-vinícius-lima-santos)
+- 📄 Know about my experiences [www.linkedin.com/in/marcusviniciusls](https://www.linkedin.com/in/marcusviniciusls)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
