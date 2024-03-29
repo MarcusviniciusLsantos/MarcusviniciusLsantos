@@ -1,7 +1,7 @@
 <h1 align="center">Hello 👋, I'm Marcus Vinícius</h1>
 <h3 align="center">In the realm of code, always learning, adapting, and striving to be the hero of my programming saga.</h3>
 
-- 🌱 I’m currently learning **NodeJS, ReactJS and NextJS**
+- 🌱 I’m currently learning **Node, React, Vue and NextJS**
 
 - 📫 How to reach me **marcusads25@gmail.com**
 
